@@ -1,6 +1,6 @@
 # Deep Learning Projects
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=62b6cb&center=true&vCenter=true&lines=simple+Deep+Learning+Projects;Learning+Neural+Networks;Building+while+Learning;)
+![Typing](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=62b6cb&center=true&vCenter=true&lines=s+simple+Deep+Learning+Projects;Learning+Neural+Networks;Building+while+Learning;)
 
 ---
 
